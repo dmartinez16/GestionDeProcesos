@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilan\\source\\repos\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\repository\\tareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repository\\tareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\repository\\itareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\repository\\itareasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|c:\\users\\dilan\\source\\repos\\todolist\\todolist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779ED559-41EF-4E08-A578-3B14BAF1388E}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "ToDoList\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:37:08.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:29:57.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList\\appsettings.json",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\appsettings.json",
+              "RelativeToolTip": "ToDoList\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T16:28:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ToDoList\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:22:11.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\TareasRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repository\\TareasRepository.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\TareasRepository.cs",
+              "RelativeToolTip": "ToDoList\\Repository\\TareasRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:15:10.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITareasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\ITareasRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repository\\ITareasRepository.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\ITareasRepository.cs",
+              "RelativeToolTip": "ToDoList\\Repository\\ITareasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:13:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Repository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "ToDoList\\Repository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T16:11:37.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Models\\Tarea.cs",
+              "RelativeToolTip": "ToDoList\\Models\\Tarea.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T15:56:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Models\\Usuario.cs",
+              "RelativeToolTip": "ToDoList\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T15:54:13.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ToDoList\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ToDoList\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T15:53:41.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\ToDoList\\ToDoList\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ToDoList\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T15:52:49.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
